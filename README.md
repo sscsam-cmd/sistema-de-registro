@@ -6,3 +6,5 @@
 Para ejecuar el sistema, debes poner:
 
 ```install js```
+
+Sistema de registro 2
