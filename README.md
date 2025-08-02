@@ -5,4 +5,4 @@
 
 Para ejecuar el sistema, debes poner:
 
-'''install js'''
+```install js```
